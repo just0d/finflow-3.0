@@ -1,0 +1,32 @@
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Python Cache & Environments
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# Data Pipelines (Strictly blocked to prevent leaks)
+data/raw/*
+data/aligned/*
+data/processed/*
+data/preprocessed/*
+data/cache/*
+!data/**/README.md
+!data/**/.gitkeep
+
+# Model Weights (Strictly blocked for size limits)
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+*.h5
+*.hdf5
