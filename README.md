@@ -3,6 +3,7 @@
 **A sentiment-augmented algorithmic trading system with cross-modal deep fusion, an NLP risk gate, and a heterogeneous-member meta-ensemble.**
 
 Author: Od Sukh-Ochir · Department of Data Science, Hanyang University
+
 Contact: odstar259@gmail.com
 
 ---
