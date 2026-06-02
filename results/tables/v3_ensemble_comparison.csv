@@ -1,0 +1,18 @@
+tier,tag,config,return_%,sharpe,max_drawdown_%,n_trades,win_rate_%,final_eq
+ensemble,G4·E3,G4·E3 majority   (M1+M2+M3+M4),30.76,1.71,-7.37,156,36.46,130764.49
+member,M1,Transformer+LF+NLP,69.22,1.659,-22.21,953,38.71,169218.92
+ensemble,G3·E3,G3·E3 majority   (M1+M2+M3),43.83,1.509,-14.65,462,37.08,143830.68
+ensemble,G2·E3,G2·E3 majority   (M1+M2),35.39,1.423,-13.88,374,35.61,135387.41
+ensemble,G2·E4,G2·E4 consensus  (M1+M2),35.39,1.423,-13.88,374,35.61,135387.41
+ensemble,G3·E2,G3·E2 sharpe-wtd (M1+M2+M3),67.75,1.382,-25.63,1473,41.49,167747.69
+ensemble,G3·E1,G3·E1 equal      (M1+M2+M3),46.04,1.117,-27.6,1478,39.91,146036.63
+ensemble,G4·E2,G4·E2 sharpe-wtd (M1+M2+M3+M4),46.97,1.083,-36.19,1632,41.95,146971.57
+ensemble,G2·E2,G2·E2 sharpe-wtd (M1+M2),43.47,1.049,-30.84,1285,41.38,143472.76
+ensemble,G3·E4,G3·E4 consensus  (M1+M2+M3),15.2,0.978,-5.71,74,37.5,115198.58
+ensemble,G2·E1,G2·E1 equal      (M1+M2),35.92,0.972,-33.87,1286,39.82,135915.6
+ensemble,G4·E1,G4·E1 equal      (M1+M2+M3+M4),35.48,0.942,-31.94,1628,41.02,135475.49
+ensemble,G4·E4,G4·E4 consensus  (M1+M2+M3+M4),12.92,0.924,-4.31,34,39.13,112922.52
+member,M3,CrossModal R6,20.58,0.812,-14.67,453,40.03,120582.26
+benchmark,BH,Buy&Hold ex-NVDA,24.57,0.796,-31.13,1,51.82,124572.2
+member,M4,SentimentLSTM R6,13.78,0.64,-19.23,691,38.08,113784.09
+member,M2,LSTM+V4,4.94,0.301,-33.69,841,39.11,104940.39

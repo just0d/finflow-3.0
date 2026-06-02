@@ -1,0 +1,6 @@
+strategy,initial_capital,final_value,total_return,sharpe_ratio,max_drawdown,profit_factor,n_trades,win_rate,total_slippage
+LSTM_NLP,100000.0,94732.55,-5.27,-0.8299,-13.97,0.9077,758,46.7,16432.17
+Transformer_NLP,100000.0,97679.66,-2.32,-0.6069,-10.84,0.9551,523,44.36,12169.02
+Buy_Hold_SPY,100000.0,115437.53,15.55,0.215,-19.47,99.9,1,100.0,190.0
+LSTM_Raw,100000.0,95066.66,-4.93,-0.8121,-14.43,0.9236,937,45.89,19609.66
+Transformer_Raw,100000.0,91649.67,-8.35,-0.9367,-12.28,0.8666,783,43.04,16990.5

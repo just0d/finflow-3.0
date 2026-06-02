@@ -1,0 +1,5 @@
+model,raw_return_%,nlp_return_%,delta_return_%,raw_max_dd_%,nlp_max_dd_%,delta_max_dd_%,raw_sharpe,nlp_sharpe,delta_sharpe,raw_trades,nlp_trades,trades_avoided
+LSTM_LateFusion,9.26,-7.47,-16.73,-39.55,-31.63,7.92,0.406,-0.112,-0.518,1355,839,516
+Transformer_LateFusion,22.63,69.22,46.59,-29.64,-22.21,7.43,0.669,1.659,0.99,1323,953,370
+CrossModalTransformer,-4.98,-16.49,-11.51,-28.57,-31.0,-2.43,0.031,-0.323,-0.354,1070,1208,-138
+SentimentLSTM,-15.11,-15.86,-0.75,-27.69,-24.23,3.46,-0.372,-0.466,-0.094,1204,1178,26

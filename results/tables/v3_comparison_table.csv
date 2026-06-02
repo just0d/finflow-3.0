@@ -1,0 +1,6 @@
+strategy,family,total_return_%,sharpe,max_drawdown_%,profit_factor,n_trades,win_rate_%,final_equity
+BuyAndHold_ExNVDA,Benchmark,24.57,0.796,-31.13,1.049,1,51.82,124572.2
+CrossModalTransformer,Deep Fusion,-16.49,-0.323,-31.0,0.965,1208,43.89,83508.12
+SentimentLSTM,Deep Fusion,-15.86,-0.466,-24.23,0.949,1178,38.07,84139.76
+Transformer_LateFusion,Late Fusion,69.22,1.659,-22.21,1.163,953,38.71,169218.92
+LSTM_LateFusion,Late Fusion,-7.47,-0.112,-31.63,0.991,839,37.36,92534.55
