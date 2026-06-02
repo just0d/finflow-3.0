@@ -94,9 +94,9 @@ scripts expect.
 
 ## Paper, poster, demo
 
-- `docs/PAPER.md` (and `PAPER.docx`) — full research paper
+- `docs/PAPER.md` (and `PAPER.docx`) — full research paper (will be included by June 10)
 - `docs/POSTER_CONTENT.docx` — poster text and layout
-- `webapp/index.html` — interactive results browser
+- `https://just0d.github.io/finflow-3-demo/` — interactive results browser
 
 ## Citation
 
