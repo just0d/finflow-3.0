@@ -93,9 +93,8 @@ licensing reasons. Request access from **odstar259@gmail.com** and follow
 scripts expect.
 
 ## Paper, poster, demo
-
-- `docs/PAPER.md` (and `PAPER.docx`) — full research paper (will be included by June 10)
-- `docs/POSTER_CONTENT.docx` — poster text and layout
+- `docs/FinFlow-3.0-poster.pdf` — Final project poster and architecture layout
+- `docs/FinFlow-3.0-paper.pdf` - Full research paper coming June 10
 - `https://just0d.github.io/finflow-3-demo/` — interactive results browser
 
 ## Citation
